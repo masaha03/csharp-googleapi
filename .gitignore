@@ -1,4 +1,6 @@
-
+service_account_key.json
+client_secret.json
+token
 # Created by https://www.gitignore.io/api/visualstudiocode,csharp
 
 ### Csharp ###
